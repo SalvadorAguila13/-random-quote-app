@@ -1,9 +1,11 @@
 .App {
   min-height: 100vh;
   display: flex;
+  justify-content: space-around;
   align-items: center;
   align-content: center;
-  font-family: sans-serif;
+  /* font-family: sans-serif; */
+  font-family: 'Kavoon', cursive;
   font-size: 22px;
   padding: 10px;
 }
